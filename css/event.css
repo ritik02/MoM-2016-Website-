@@ -1,0 +1,174 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27 Sep, 2015, 9:20:10 PM
+    Author     : Devasheesh Roy
+*/
+
+#a
+{
+    font-size: 70px;
+    text-align: center;
+    color: white;
+font-family: "papyrus", Times,fantasy;
+left:180px;
+position:absolute;
+ -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+#a:hover
+{
+    font-size: 72px;
+    text-align: center;
+   
+    
+font-family: "papyrus", Times,fantasy;
+left:180px;
+position:absolute;
+ 
+}
+hr {
+    bottom:30px;;
+    left:0px;
+    position:relative;
+     color:grey;
+     background: white; 
+     width: 100%; 
+     height: 3px;
+     
+     border-radius: 15px;
+}
+
+#b
+{
+    
+position:absolute;
+left:1100px;
+top:200px;
+}
+#bb
+{
+    
+position:absolute;
+left:70px;
+top:200px;
+}
+img{
+    
+   padding:1px;
+   border:5px solid white;
+   border-bottom-width: 5px;
+   border-top-width: 5px;
+   background-color:white;
+   border-radius: 15px;
+   -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+img:hover{
+   
+  border:5px solid white;
+   width:260px;
+   height:290px;
+   
+}
+#c
+{
+   font-size: 22px;
+    text-align: justify;
+    color: white;
+font-family:"papyrus", Times,fantasy;
+font-weight: 500;
+left:320px;
+right:270px;
+top:200px;
+position:absolute;
+ -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+#d{
+   position:absolute;
+left:70px;
+top:570px; 
+}
+#dd{
+   position:absolute;
+left:1100px;
+top:570px; 
+}
+#e
+{
+   font-size: 22px;
+    text-align: justify;
+    color: white;
+font-family:"papyrus", Times,fantasy;
+font-weight: 500;
+left:320px;
+right:270px;;
+top:560px;
+position:absolute;
+ -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+#f{
+   position:absolute;
+left:1100px;
+top:950px; 
+}
+#ff{
+   position:absolute;
+left:70px;
+top:950px; 
+}
+#g
+{
+   font-size: 22px;
+    text-align: justify;
+    color: white;
+font-family:"papyrus", Times,fantasy;
+font-weight: 500;
+left:320px;
+right:270px;;
+top:920px;
+position:absolute;
+ -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+#h
+{
+   font-size: 22px;
+    text-align: left;
+    color: white;
+font-family:"papyrus", Times,fantasy;
+font-weight: 500;
+left:400px;
+top:1400px;
+position:absolute;
+ -webkit-transition: all 0.7s ease;
+-moz-transition: all 0.7s  ease;
+-ms-transition: all 0.7s  ease;
+-o-transition: all 0.7s  ease;
+transition: all 0.7s  ease;
+}
+table{
+    
+    height: 500px;
+    width:700px;
+}
